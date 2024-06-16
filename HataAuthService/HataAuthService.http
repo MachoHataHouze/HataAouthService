@@ -1,0 +1,6 @@
+@HataAuthService_HostAddress = http://localhost:5081
+
+GET {{HataAuthService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
